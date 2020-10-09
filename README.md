@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+😄 = :computer:  &&  :coffee: ?  :battery: : :electric_plug: ;
+
 <!--
 **eltonsandre/eltonsandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
