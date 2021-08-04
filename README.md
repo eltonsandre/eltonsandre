@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 😄 = :computer:  &&  :coffee: ?  :battery: : :electric_plug: ;
-
+##
 ---
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
 <img align="left" alt="Spring Boot" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/spring-boot/spring-boot.png" />
@@ -13,7 +13,12 @@
 <br />
 
 ---
-![eltonsandre's github stats](https://github-readme-stats.vercel.app/api?username=eltonsandre&show_icons=true&hide_border=true)
+![eltonsandre's github stats](https://github-readme-stats.vercel.app/api?username=eltonsandre&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dracula)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonsandre&layout=compact&langs_count=8&hide_border=true&theme=dracula)
+
+---
+![distro-linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+
 
 <!--
 **eltonsandre/eltonsandre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
