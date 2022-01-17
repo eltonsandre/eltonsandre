@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 😄 = :computer:  &&  :coffee: ?  :battery: : :electric_plug: ;
+
 ##
 
 <img align="left" alt="Java" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" />
@@ -15,15 +16,13 @@
 <img align="left" alt="AWS" width="30px" src="https://raw.githubusercontent.com/github/explore/fbceb94436312b6dacde68d122a5b9c7d11f9524/topics/aws/aws.png" />
 <img align="left" alt="Kafka" src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white">
 
-
 <br />
 
 ---
 ![eltonsandre's github stats](https://github-readme-stats.vercel.app/api?username=eltonsandre&include_all_commits=true&count_private=true&show_icons=true&hide_border=true&theme=dracula)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eltonsandre&layout=compact&langs_count=8&hide_border=true&theme=dracula)
 
----
-![distro-linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
+![Profile views](https://komarev.com/ghpvc/?username=eltonsandre&style=for-the-badge)
 
 ##
 [![linkedin/eltonsandre](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eltonsandre)
