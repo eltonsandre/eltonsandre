@@ -4,8 +4,8 @@
 
 [![linkedin/eltonsandre](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eltonsandre)
 
-<a href="https://eltonsandre.github.io/">
-    <img href="https://eltonsandre.github.io/" src="https://skillicons.dev/icons?i=idea" alt="Use my IntelliJ IDEA plugins" />
+<a href="https://plugins.jetbrains.com/organizations/eltonsandre">
+    <img href="https://plugins.jetbrains.com/organizations/eltonsandre" src="https://skillicons.dev/icons?i=idea" alt="Use my IntelliJ IDEA plugins" />
     Use my IntelliJ IDEA plugins
 </a>
 
